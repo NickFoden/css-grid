@@ -9,6 +9,7 @@
   --yellow: #ffc600;
   --black: #272727;
 }
+/* to use then you put something like ->  color: var(--yellow)  or color: var(--black)*/
 
 html {
   /* border-box box model allows us to add padding and border to our elements without increasing their size */
